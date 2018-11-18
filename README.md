@@ -10,9 +10,9 @@
 
 ### 설명
 
-    이 프로그램은 Python3 를 기반으로 만들어진 [Telegram](https://telegram.org/) 급식봇 입니다.
-    리눅스 기반에서 더 잘 동작합니다.
-    급식 파서의 출처는 [이곳](https://github.com/M4ndU/school_meal_parser_python) 입니다.
+* 이 프로그램은 Python3 를 기반으로 만들어진 [Telegram](https://telegram.org/) 급식봇 입니다.
+* 리눅스 기반에서 더 잘 동작합니다.
+* 급식 파서의 출처는 [이곳](https://github.com/M4ndU/school_meal_parser_python) 입니다.
     
 
 ### 미리보기
