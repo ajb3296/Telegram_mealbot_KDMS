@@ -6,7 +6,7 @@
 
 ### Download
 
-
+* [Download](https://github.com/NewPremium/Telegram_mealbot_KDMS/archive/master.zip)
 
 ### 설명
 
