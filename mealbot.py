@@ -171,7 +171,7 @@ def get_message(bot, update) :
         elif n==6:
             r=3
         else:
-            r=n+2
+            r=n+4
         meal = get_diet(2, four.strftime('%Y.%m.%d'), r)
         if meal==" ":
             meal1="급식이 없습니다."
