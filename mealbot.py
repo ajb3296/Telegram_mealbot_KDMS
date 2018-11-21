@@ -150,7 +150,7 @@ def get_message(bot, update) :
         elif n==6:
             r=2
         else:
-            r=n+2
+            r=n+3
         meal = get_diet(2, three.strftime('%Y.%m.%d'), r)
         if meal==" ":
             meal1="급식이 없습니다."
