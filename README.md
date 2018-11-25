@@ -17,7 +17,7 @@
 
 ### 미리보기
 
-* [경덕중학교 급식](https://t.me/kdmsmealbot) 먼저 [Telegram](https://telegram.org/) 을 설치해 주세요.
+* [경덕중학교 급식](https://t.me/kdmsmealbot) - 먼저 [Telegram](https://telegram.org/) 을 설치해 주세요.
 
 ### 사용법
 
